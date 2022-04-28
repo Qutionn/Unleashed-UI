@@ -1,0 +1,44 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Configuration",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir0",
+               "DisplayName":"stagegate",
+               "Description":[
+                  "",
+               ],
+               "Type":"StageEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"disk_SG"
+            },
+			
+         ]
+      }
+   ],
+   "Enums":{
+      "StageEnum":[
+         {
+            "DisplayName":"Unleashed stagegate",
+            "Value":"disk_SG",
+            "Description":[
+               "",
+            ]
+         },
+		 {
+            "DisplayName":"Generations stagegate",
+            "Value":"",
+            "Description":[
+              "
+                ",
+            ]
+         },
+		 
+      ],
+   },
+   "IniFile":"mod.ini"
+}
