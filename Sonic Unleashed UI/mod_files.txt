@@ -1,1 +1,5 @@
+add Sound/SNG00_SYS/Synth/EMBB001_Title_Long1_wav.aax
+add Sound/SNG00_SYS/Synth/EMBB002_Option_wav.aax
+add disk/bb3/Application.ar.00
+add disk/bb3/Application.arl
 add mod.ini
